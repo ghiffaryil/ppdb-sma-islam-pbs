@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -87,7 +88,7 @@
                   >
                 </div>
                 <div class="text-center mt-4">
-                  <a href="../home/index.html"
+                  <a href="../home/home.php"
                     ><button
                       type="button"
                       class="btn btn-block btn-primary fw-bold"
