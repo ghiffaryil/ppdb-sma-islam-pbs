@@ -13,12 +13,12 @@
 		<?php include '../components/navbar.php' ?>
 
 		<!-- Sidebar -->
-		<?php include '../components/sidebar.php' ?>
+		<?php include '../components/sidebar_admin.php' ?>
 
 		<div class="main-panel">
 
 			<!-- Content -->
-			<?php include '../components/content.php' ?>
+			<?php include '../components/content_admin.php' ?>
 
 			<!-- Footer  -->
 			<?php include '../components/footer.php' ?>

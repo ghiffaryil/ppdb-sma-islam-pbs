@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -45,20 +44,13 @@
         <div class="col-lg-5">
           <div class="card">
             <div class="card-body">
-              <center>
-                <img
-                  src="../../../assets/images/logo/logosmaislampbscijantung.png"
-                  alt="SMA-Islam-PBS-Cijantung"
-                  style="height: 150px; width: auto"
-                />
-              </center>
               <h2 class="text-center mt-4">
-                <b>PPDB SMA ISLAM PB SOEDIRMAN</b>
+                <b>Verifikasi Akun</b>
               </h2>
               
               <form>
                 <div class="form-group">
-                  <label for="username">Email</label>
+                  <label for="username">Kode Verifikasi</label>
                   <input
                     id="username"
                     name="username"
@@ -68,40 +60,25 @@
                   />
                 </div>
                 <div class="form-group">
-                  <label for="password">Password</label>
-                  <input
-                    id="password"
-                    name="password"
-                    type="password"
-                    class="form-control"
-                    required
-                  />
-                </div>
-                <div class="form-group form-check d-none">
-                  <input
-                    type="checkbox"
-                    class="form-check-input"
-                    id="rememberme"
-                  />
-                  <label class="form-check-label" for="rememberme"
-                    >Remember Me</label
-                  >
-                </div>
-                <div class="text-center mt-4">
-                  <a href="../home/home.php"
+
+                
+                <div class="text-center mt-1">
+                  <a href="../index.php"
                     ><button
                       type="button"
-                      class="btn btn-block btn-primary fw-bold"
+                      class="btn btn-block btn-primary"
                     >
-                      Sign In
+                      Verifikasi
                     </button></a
                   >
                 </div>
+                </div>
               </form>
-              <div class="login-account text-center mt-4">
-                <span class="mt-2">Don't have an account yet?</span>
-                <a href="register.php" id="show-signup" class="link"
-                  >Sign Up</a
+              <div class="login-account text-center mt-2">
+                <span class="mt-2">Tidak mendapatkan kode verifikasi?</span>
+                <br>
+                <a href="register.html" id="show-signup" class="link"
+                  >Kirim ulang kode ke Email (59)</a
                 >
               </div>
             </div>

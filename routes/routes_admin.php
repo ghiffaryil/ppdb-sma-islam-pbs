@@ -4,11 +4,8 @@ if(isset($_GET['menu'])){
 	switch ($_GET['menu']) {
 
 		case 'home':
-		include "../views/home/home.php";
+		include "../views/admin/home/home.php";
 		break;
-
-
-
 
 		default:
 		break;
