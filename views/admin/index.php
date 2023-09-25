@@ -3,30 +3,30 @@
 
 <head>
 	<!-- Header -->
-	<?php include '../components/header.php' ?>
+	<?php include '../../components/header.php' ?>
 </head>
 
 <body>
 	<div class="wrapper">
 
 		<!-- Navbar -->
-		<?php include '../components/navbar.php' ?>
+		<?php include '../../components/navbar.php' ?>
 
 		<!-- Sidebar -->
-		<?php include '../components/sidebar_admin.php' ?>
+		<?php include '../../components/sidebar_admin.php' ?>
 
 		<div class="main-panel">
 
 			<!-- Content -->
-			<?php include '../components/content_admin.php' ?>
+			<?php include '../../components/content_admin.php' ?>
 
 			<!-- Footer  -->
-			<?php include '../components/footer.php' ?>
+			<?php include '../../components/footer.php' ?>
 		</div>
 	</div>
 
 	<!-- Footer Javascript -->
-	<?php include '../components/footer_javascript.php' ?>
+	<?php include '../../components/footer_javascript.php' ?>
 
 </body>
 
